@@ -1,0 +1,46 @@
+.header {
+    width: 100%;
+    height: 0.86rem;
+
+}
+.c12{
+    font-style: normal;
+    font-size: 0.4rem;
+    line-height: 0.86rem;
+    margin-left: 0.3rem;
+    float: left;
+    font-family: iconfont;
+}
+.header1{
+    font-size: 0.3rem;
+    line-height: 0.86rem;
+    margin-left: 0.8rem;
+}
+#hea1{
+    width: 7.5rem;
+    height: 100%;
+    background: #e9ddab;
+    margin: auto;
+}
+#pic{
+    margin: auto;
+    width: 7.13rem;
+    height: 5.8rem;
+    /*background: red;*/
+}
+#pic img{
+    width: 7.13rem;
+    height: 5.8rem;
+
+}
+#pic1{
+    margin:auto;
+    width: 7.13rem;
+    height: 6.5rem;
+    /*background: red;*/
+}
+#pic1 img{
+    width: 7.13rem;
+    height: 6.5rem;
+    display: block;
+}

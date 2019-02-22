@@ -1,0 +1,208 @@
+.header{
+    width: 7.5rem;
+    height: 6rem;
+    background: #e7e6ee;
+    margin: auto;
+
+}
+.bao{
+    background: #ff6700;
+    height: 5rem;
+    width: 7.5rem;
+    position: relative;
+    margin: auto;
+}
+.header1{
+    width: 2rem;
+    height: 2rem;
+    background: black;
+    border-radius: 100%;
+    position: absolute;
+    top: 1rem;
+    left: 2.8rem;
+}
+.header1 img{
+    width: 2rem;
+    height: 2rem;
+    border-radius: 100%;
+}
+#header22{
+  position: absolute;
+    top: 3.1rem;
+    left: 2.8rem;
+}
+#header33{
+    position: absolute;
+    top: 3.8rem;
+    left: 2rem;
+}
+
+p{
+    text-align: center;
+}
+.middle{
+    width: 7.5rem;
+    height: 6.92rem;
+    margin: auto;
+    /*background: #bc0b98;*/
+    padding-top: 0.58rem;
+
+}
+.middle1{
+    width: 6.9rem;
+    height: 1rem;
+    background: #f2f1f9;
+    border-radius: 0.2rem;
+    margin: auto;
+    padding: 0.05rem;
+}
+.middle1 .hu{
+   width: 0.9rem;
+    height: 0.9rem;
+    background: #cfcfcf;
+    border-radius: 100%;
+    margin-left: 0.2rem;
+}
+.zhi{
+    background: #ff2506;
+    height: 0.6rem;
+    width: 1.3rem;
+    float: right;
+    margin-top: 0.15rem;
+    margin-right: 0.3rem;
+    border-radius: 0.4rem;
+}
+.zhi .zhi1{
+    width: 0.15rem;
+    height: 0.15rem;
+    background: #c3c3c3;
+    border-radius: 100%;
+    margin-top: 0.24rem;
+    margin-left: 0.17rem;
+    float: left;
+
+}
+.bottommm{
+    width:7.5em;
+    height: 1.2rem;
+    background: rgba(199, 199, 199, 0.7);
+    margin:  auto ;
+    display: flex;
+    justify-content:space-around;
+    margin-top: 0.2rem;
+
+}
+.bottommm .b1{
+    width: 1.4rem;
+    height: 1.2rem;
+    /*background: #7a7a7a;*/
+    position: relative;
+}
+.b1 .b11{
+    font-size: 0.65rem;
+    font-style: normal;
+    font-family: iconfont;
+    position: absolute;
+    top: 0.07rem;
+    left: 0.35rem;
+}
+.b12{
+    font-style: normal;
+    font-size: 0.28rem;
+    margin-left: 0.39rem;
+    position: absolute;
+    top: 0.7rem;
+}
+.bottommm .b2{
+    width: 1.4rem;
+    height: 1.2rem;
+    /*background: #7a7a7a;*/
+    position: relative;
+}
+.b2 .b21{
+    font-size: 0.7rem;
+    font-style: normal;
+    font-family: iconfont;
+    position: absolute;
+    top: 0.15rem;
+    left: 0.35rem;
+}
+.b22{
+    font-style: normal;
+    font-size: 0.3rem;
+    margin-left: 0.39rem;
+    position: absolute;
+    top: 0.9rem;
+}
+.bottommm .b3{
+    width: 1.4rem;
+    height: 1.2rem;
+    /*background: #7a7a7a;*/
+    position: relative;
+}
+.b3 .b31{
+    font-size: 0.55rem;
+    font-style: normal;
+    font-family: iconfont;
+    position: absolute;
+    top: 0.12rem;
+    left: 0.4rem;
+}
+.b32{
+    font-style: normal;
+    font-size: 0.3rem;
+    margin-left: 0.39rem;
+    position: absolute;
+    top: 0.7rem;
+}
+.bottommm .b4{
+    width: 1.4rem;
+    height: 1.2rem;
+    /*background: #7a7a7a;*/
+    position: relative;
+}
+.b4 .b41{
+    font-size: 0.55rem;
+    font-style: normal;
+    font-family: iconfont;
+    position: absolute;
+    top: 0.1rem;
+    left: 0.35rem;
+}
+.b42{
+    font-style: normal;
+    font-size: 0.3rem;
+    margin-left: 0.32rem;
+    position: absolute;
+    top: 0.7rem;
+}
+.hu p{
+   font-family: iconfont;
+    font-style: normal;
+    font-size: 0.5rem;
+    line-height: 1rem;
+}
+@font-face {
+    font-family: 'iconfont';  /* project id 1038540 */
+    src: url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.eot');
+    src: url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1038540_lxlunupf3ad.svg#iconfont') format('svg');
+}
+@font-face {
+    font-family: 'iconfont';  /* project id 1030926 */
+    src: url('//at.alicdn.com/t/font_1030926_zp1r3269qm.eot');
+    src: url('//at.alicdn.com/t/font_1030926_zp1r3269qm.eot?#iefix') format('embedded-opentype'),
+    url('//at.alicdn.com/t/font_1030926_zp1r3269qm.woff2') format('woff2'),
+    url('//at.alicdn.com/t/font_1030926_zp1r3269qm.woff') format('woff'),
+    url('//at.alicdn.com/t/font_1030926_zp1r3269qm.ttf') format('truetype'),
+    url('//at.alicdn.com/t/font_1030926_zp1r3269qm.svg#iconfont') format('svg');
+}
+.huzhipeng{
+    width: 7.5rem;
+    height: 13.35rem;
+    background: #e7e6ee;
+    margin: auto;
+}

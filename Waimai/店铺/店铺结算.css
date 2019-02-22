@@ -1,0 +1,294 @@
+.header {
+    width: 100%;
+    height: 0.86rem;
+    /*background: rgba(126, 240, 255, 0.8);*/
+}
+#z1{
+    width: 7.5rem;
+    height: 0.86rem;
+    background: #ff3408;
+    margin: auto;
+}
+.header .iconfont{
+    font-style: normal;
+    font-family: iconfont;
+    font-size: 0.4rem;
+    line-height: 0.86rem;
+    margin-left: 0.3rem;
+    float: left;
+    color: white;
+    /*background: red;*/
+}
+
+
+#s1{
+    /*background: black;*/
+    width: 7.5rem;
+    height: 2.5rem;
+    margin: auto;
+}
+#d1{
+    width: 7.5rem;
+    margin: auto;
+    height: 1.1rem;
+}
+.aside{
+    background: red;
+    width: 7.5rem   ;
+    height: 2.5rem;
+    margin: auto;
+}
+#aside1 img{
+    margin-left: 0.36rem;
+    margin-top: 0.15rem;
+    width: 2.22rem;
+    height: 2.22rem;
+    border-radius: 0.2rem;
+    float: left;
+}
+#aside2{
+    color: white;
+    font-size: 0.3rem;
+    line-height: 0.7rem;
+    margin-left: 0.3rem;
+}
+.zhong{
+    width: 7.5rem;
+    height: 1.1rem;
+    background:black;
+    margin: auto;
+}
+#zhong1{
+    font-size: 0.25rem;
+    line-height: 1.1rem;
+    margin-left: 0.32rem;
+    color: white;
+}
+.jian{
+    width: 100%;
+    height: 0.7rem;
+    background: #ff671a;
+}
+#jian1{
+    margin: auto;
+    width: 2.5rem;
+    height:0.7rem;
+    background: red;
+    border-radius: 0.45rem;
+}
+#jian11{
+    line-height: 0.7rem;
+    font-size:0.4rem;
+    text-align: center;
+    color: white;
+}
+#f1{
+    width: 7.5rem;
+    margin: auto;
+    height: 6.2rem;
+    /*background: #93f5ff;*/
+    display: flex;
+}
+.lie{
+
+    width: 7.5rem;
+    height: 6.8rem;
+    background: rgba(100, 255, 79, 0.77);
+    margin:  auto ;
+
+}
+#lie1{
+    width: 2.08rem;
+    height: 6.8rem;
+    background: #000000;
+    flex-direction:column;
+    justify-content:space-around;
+    align-items:stretch;
+}
+#lie2{
+    width: 5.4rem;
+    height: 6.8rem;
+    background: rgb(255, 2, 2);
+}
+#lie11,#lie12,#lie13,#lie14,#lie15,#lie16,#lie17,#lie18,#lie19{
+    border-radius: 0.35rem;
+    width: 1.5rem;
+    height: 0.6rem;
+    background: #000000;
+    border: 0.02rem solid red;
+    margin-top: 0.14rem;
+    margin-left: 0.3rem;
+
+}
+#lie111,#lie121,#lie131,#lie141,#lie151,#lie161,#lie171,#lie181,#lie191{
+    font-size: 0.4rem;
+    line-height: 0.48rem;
+    text-align: center  ;
+    color: red;
+}
+.caidan {
+    width: 5rem;
+    height: 2rem;
+    background: #f3f3f3;
+    margin:0.2rem auto ;
+    border-radius: 0.35rem;
+    display: flex;;
+}
+.caidan1 {
+    width: 2rem;
+    height: 2rem;
+    background: #ff6700;
+    border-radius: 0.35rem;
+}
+.caidan img {
+    width: 2rem;
+    height: 2rem;
+    border-radius: 0.35rem 0  0 0.35rem;
+}
+.caidan2 {
+    width: 3.99rem;
+    height: 100%;
+    /*background: #ff0e13;*/
+    /*border-radius: 0.35rem;*/
+}
+.caidan .caidan2 .tou {
+    width: 3rem;
+    height: 0.4rem;
+    /*background: #16b0bc;*/
+    border-radius: 0.35rem;
+    line-height: 0.4rem;
+
+}
+.caidan .caidan2 .tou li {
+    font-size: 0.25rem;
+    margin-left: 0.2rem;
+}
+.tou1 {
+    width: 3rem;
+    height: 0.4rem;
+    /*background: #bbbbbb;*/
+    line-height: 0.4rem;
+    display: flex;
+}
+.caidan .tou1 .tou2 {
+    font-family: iconfont;
+    font-size: 0.25rem;
+    font-style: normal;
+    margin-left: 0.12rem;
+    /*color: red;*/
+}
+.caidan .tou1 .tou3 {
+    font-size: 0.25rem;
+    font-style: normal;
+    margin-left: 0.2rem;
+}
+.qisong {
+    width: 3rem;
+    height: 0.4rem;
+    /*background: #16b0bc;*/
+}
+.qisong li {
+    font-size: 0.25rem;
+    line-height: 0.4rem;
+    margin-left: 0.2rem;
+}
+.caidan .caidan2 .left1 {
+    width: 3rem;
+    height: 0.7rem;
+    /*background: white;*/
+    position: relative;
+}
+.caidan .caidan2 .left1 .left12 {
+    /*background: #bbbbbb;*/
+    width: 0.8rem;
+    height: 0.4rem;
+    position: absolute;
+    top: 0.12rem;
+    left: 0.2rem;
+    border: 0.02rem solid #ff0e13;
+
+}
+.left1 .left12 {
+    font-size: 0.25rem;
+    text-align: center;
+    color: red;
+}
+.caidan .caidan2 .left1 .left13 {
+    /*background: #bbbbbb;*/
+    width: 0.8rem;
+    height: 0.4rem;
+    position: absolute;
+    top: 0.12rem;
+    left: 1.2rem;
+    border: 0.02rem solid #ff0e13;
+    color: red;
+
+}
+.left1 .left13 {
+    font-size: 0.25rem;
+    text-align: center;
+}
+.right12 {
+    width: 0.8rem;
+    height: 0.4rem;
+    /*background: black;*/
+    position: absolute;
+    top: 0.1rem;
+    left: 2.2rem;
+    font-size: 0.25rem;
+}
+
+
+
+.dizi{
+
+    background: #71dd45;
+    width: 100%;
+    height:1.3rem;
+}
+#dizi1{
+    margin-top: 0.15rem;
+    float: left;
+    width: 1rem;
+    height: 1rem;
+    background: #ff0202;
+    border-radius: 100%;
+    margin-left: 0.4rem;
+}
+#dizi1 .dizi11{
+    line-height: 1rem;
+    text-align: center;
+    font-size: 0.7rem;
+    font-family: iconfont;
+    color: white;
+}
+#dizi111 #dizi121{
+    height: 1rem;
+    font-size: 0.1rem;
+    width: 2.5rem;
+    float: left;
+    line-height: 1.3rem;
+
+}
+#dizi2{
+    margin-top: 0.25rem;
+    float: left;
+    width:2rem;
+    height: 0.8rem;
+    background: #ff0202;
+    border-radius: 0.45rem;
+    margin-left: 1rem;
+
+}
+#dizi21{
+    font-size: 0.3rem;
+    line-height: 0.8rem;
+    text-align: center;
+    color: white;
+}
+#x1{
+    width: 7.5rem;
+    margin: auto 0;
+    height:1.3rem;
+    background: #ff651c;
+}

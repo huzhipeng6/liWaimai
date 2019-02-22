@@ -1,0 +1,141 @@
+.header {
+    width: 100%;
+    height: 0.86rem;
+    background: red;
+}
+#o1{
+    /*background: black;*/
+    width: 7.5rem;
+    height: 0.86rem;
+    margin: auto;
+}
+#p11{
+    /*background: #2212ff;*/
+    width: 7.5rem;
+    height: 1.78rem;
+    margin: auto;
+}
+.header .iconfont {
+    font-style: normal;
+    font-family: iconfont;
+    font-size: 0.4rem;
+    line-height: 0.86rem;
+    margin-left: 0.3rem;
+    float: left;
+    color: white;
+}
+.header1{
+    font-size: 0.3rem;
+    line-height: 0.86rem;
+    margin-left: 3rem;
+    color: white;
+}
+.back{
+    background: red;
+    width: 100%;
+    height: 1.78rem;
+}
+#back1,#back2,#back3{
+    font-size: 0.3rem;
+    margin-left: 0.36rem;
+    height: 0.55rem;
+    line-height: 0.55rem;
+    color: white;
+}
+.dao{
+    /*margin-top:0.2rem;*/
+    width: 7.06rem;
+    height: 1.36rem;
+    /*background: #eeeeee;*/
+    border-radius: 0.2rem;
+    margin: auto;
+}
+#dao1{
+    font-size: 0.25rem;
+    height: 0.4rem;
+    margin-left: 0.3rem;
+}
+#dao2{
+    font-size: 0.2rem;
+    color: red;
+    height: 0.4rem;
+    margin-left: 0.3rem;
+}
+#dao3{
+    height: 0.4rem;
+    margin-left: 0.3rem;
+}
+#dao31{
+    font-size: 0.25rem;
+    float: left;
+}
+#dao32{
+    float: right;
+    /*margin-right: 0.5rem;*/
+    font-size: 0.25rem;
+    width: 2rem;
+    height: 0.6rem;
+    /*background: #16b0bc;*/
+}
+#dao321{
+    float: left;
+    color: red;
+}
+.dao322{
+    float: left;
+    margin-left: 0.2rem;
+    font-size: 0.1rem;
+    color: red;
+    font-family: iconfont;
+    margin-top: 0.08rem;
+}
+.chance{
+    height: 8.5rem;
+    width: 7.04rem;
+    background: white;
+    margin:0.5rem  auto 0;
+    border-radius: 0.1rem;
+}
+#c1{
+    width: 100%;
+    height: 0.8rem;
+    /*background: #ece7e7;*/
+    border-radius: 0.2rem;
+}
+.c11{
+    line-height: 0.8rem;
+   text-align: center;
+    font-size: 0.3rem;
+}
+
+#c2,#c3,#c4,#c5,#c6{
+    margin-top: 0.2rem;
+    width: 100%;
+    height: 1.2rem;
+    /*background: #2212ff;*/
+    border-radius: 0.1rem;
+}
+.huzhipeng{
+    width: 7.5rem;
+    height: 10.7rem;
+    background: #e7e6ee;
+}
+#c21,#c31,#c41,#c51,#c61{
+    width:1rem;
+    height: 1rem;
+    /*background: red;*/
+    float: left;
+    margin-top: 0.05rem;
+    margin-left: 0.5rem;
+}
+#c21 img,#c31 img,#c41 img,#c51 img,#c61 img{
+    width:1rem;
+    height: 1rem;
+    border-radius: 100%;
+}
+#c22,#c32,#c42,#c52,#c62{
+    line-height: 1.2rem;
+    margin-left: 2rem;
+    height: 1rem;
+    font-size: 0.4rem;
+}
